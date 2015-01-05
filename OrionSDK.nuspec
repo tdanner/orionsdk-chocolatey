@@ -15,7 +15,7 @@
     <copyright>Copyright © SolarWinds Worldwide, LLC.  All rights reserved.</copyright>
     <licenseUrl>http://www.solarwinds.com/eula.aspx</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <!--<iconUrl>http://cdn.rawgit.com/__CHOCO_PKG_MAINTAINER_REPO__/master/icons/OrionSDK.png</iconUrl>-->
+    <iconUrl>https://cdn.rawgit.com/tdanner/orionsdk-chocolatey/e45a868a4a0486e3d39241c6fdceead277fd31f4/orionsdk.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
